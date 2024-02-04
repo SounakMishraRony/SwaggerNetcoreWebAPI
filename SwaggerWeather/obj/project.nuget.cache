@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CIPOkMez6P++rMC0HEniH5ZboBGUAbKGZ1lnCuKj7Rgmg2AzXPaT+O5hVF4M4+XeJ0y/fpwrk3MjZzl5RDiwbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sounmish\\source\\repos\\SwaggerWeather\\SwaggerWeather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sounmish\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sounmish\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sounmish\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\sounmish\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\sounmish\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\sounmish\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
